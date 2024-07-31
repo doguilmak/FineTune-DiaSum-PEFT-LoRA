@@ -1,7 +1,3 @@
-<h1 align=center><font size = 6>Fine-Tuning Pre-Trained Language Models for Dialogue Summarization Using PEFT and LoRA</font></h1>
-
-<br>  
-
 <p  align="center">
 <img src="https://raw.githubusercontent.com/doguilmak/FineTune-DiaSum-PEFT-LoRA/main/assets/pexels-googledeepmind-18069696.jpg" height=450 width=2000 alt="Cover">
 </p>  
