@@ -42,7 +42,7 @@ The main steps involved in this process are:
 
 <br>
 
-Here you can find the **[IPython Notebook](https://github.com/doguilmak/DiaSum-PEFT-LoRA/DiaSum-PEFT-LoRA.ipynb)** file to do all these step by step.
+Here you can find the **[IPython Notebook](https://github.com/doguilmak/FineTune-DiaSum-PEFT-LoRA/blob/main/DiaSum_PEFT_LoRA.ipynb)** file to do all these step by step.
 
 <br>
 
